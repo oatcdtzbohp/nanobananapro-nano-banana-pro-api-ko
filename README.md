@@ -6,7 +6,7 @@
 
 > 종량제, 최소 1달러 충전, OpenAI 호환 엔드포인트. **default $0.03; 4K $0.04**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-58ee98) · [实时价格](https://go.apimart.ai/k-fbe30c) · [获取 API Key](https://go.apimart.ai/k-6cb55d)**
 
 ## 가격（快照 2026-09-24）
 
